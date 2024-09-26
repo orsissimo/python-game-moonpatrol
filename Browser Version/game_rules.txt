@@ -1,0 +1,32 @@
+###
+SINGLE PLAYER
+One rover: [1]
+---
+
+###
+MULTIPLAYER
+Two rovers: [2]
+---
+
+###
+START GAME
+[Enter]
+Back to main menu: [Backspace]
+---
+
+###
+ROVER 1
+Move: [W] [A] [S] [D]
+Shoot: [E]
+---
+
+###
+ROVER 2
+Move: [I] [J] [K] [L]
+Shoot: [O]
+---
+
+###
+GAME OVER
+Restart: [Spacebar]
+---
